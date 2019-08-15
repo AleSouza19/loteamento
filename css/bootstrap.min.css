@@ -190,10 +190,10 @@ h2, h3 {
 	background-color:#fff!important
 }
 .btn>.caret, .dropup>.btn>.caret {
-	border-top-color:#000!important
+	border-top-color:#fff!important
 }
 .label {
-	border:1px solid #000
+	border:1px solid #fff
 }
 .table {
 	border-collapse:collapse!important
@@ -3193,7 +3193,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 	border-color:#e6e6e6
 }
 .navbar-default .navbar-nav>.dropdown>a:hover .caret, .navbar-default .navbar-nav>.dropdown>a:focus .caret {
-	border-top-color:#333;
+	border-top-color:#fff;
 	border-bottom-color:#333
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
@@ -3512,7 +3512,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 	text-align:center;
 	white-space:nowrap;
 	vertical-align:baseline;
-	background-color:#999;
+	background-color:#fff;
 	border-radius:10px
 }
 .badge:empty {
@@ -3828,7 +3828,7 @@ a.list-group-item {
 	color:#555
 }
 a.list-group-item .list-group-item-heading {
-	color:#333
+	color:#fff
 }
 a.list-group-item:hover, a.list-group-item:focus {
 	text-decoration:none;
