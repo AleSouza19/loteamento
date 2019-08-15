@@ -115,7 +115,7 @@ Single slide style
   background-color: #fff;
 }
 
-/*
+
 .cd-hero-slider li:nth-of-type(2) {
   background-color: #3d4952;
   background-image: url("../assets/tech-1-mobile.jpg");
@@ -124,7 +124,7 @@ Single slide style
   background-color: #586775;
   background-image: url("../assets/tech-2-mobile.jpg");
 }
-*/
+
 
 .cd-hero-slider li:nth-of-type(4) {
   background-color: #fff;
