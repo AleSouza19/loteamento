@@ -47,9 +47,9 @@
 
 </head>
 	
-<body id="app">
+<body >
 
-	<div class="body-inner">
+	<div class="body-inner" id="app">
 
 	<!-- Header start -->
 	<header id="header" class="navbar-fixed-top header" role="banner">
@@ -75,13 +75,13 @@
                        		 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-documents-up"></i></a>
                        		<div class="dropdown-menu">
 								<ul>
-									
+								
 										                            
 		                        </ul>
 	                    	</div>
 	                    </li>
 						<li class="dropdown">
-                       		<a href="#" class="dropdown-toggle" data-toggle="dropdown">Documentos <i class="fa "></i></a>
+                       		<a href="#" class="dropdown-toggle" data-toggle="dropdown">Documentos<i class="fa " @click="Documentos"></i></a>
                        		<div class="dropdown-menu">
 								<ul>
 		                          
@@ -134,13 +134,16 @@
 	</header><!--/ Header end -->
 
 	<!-- Slider start -->
+	
 	<section id="home" class="no-padding">	
     	<div id="main-slide" class="cd-hero">
 			<ul class="cd-hero-slider">
 				<li class="selected">
 					<div class="overlay2">
 						<img class="" src="images/slider/Logo Jardim.png" alt="slider">
+						
 					</div>
+					
 					<div class="cd-full-width">
 					</br>
 				</br>
@@ -150,14 +153,8 @@
 
 	<!-- Javascript Files
 	================================================== -->
-	<script src="/node_modules/vue/dist/vue.js">
-	let app = new vue({
-		el: 'app',
-		data:{
-			
-		}
-	})
-	</script>
+	<script src="node_modules/vue/dist/vue.js"></script>
+	<script src="src/app.js"></script>
 
 	<!-- initialize jQuery Library -->
 	<script type="text/javascript" src="js/jquery.js"></script>
