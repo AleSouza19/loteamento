@@ -297,7 +297,7 @@ blockquote {
 /* Common styles
 ================================================== */
 
-/* Angle 
+/* Angle */
 
 .angle:before {
 	background: #fff;
@@ -326,7 +326,7 @@ blockquote {
 	padding: 120px 0;
 }
 
-/* Parallax 
+/* Parallax */
 
 .parallax {
 	background-size: cover !important;
@@ -380,7 +380,7 @@ blockquote {
 }
 
 
-/* Deafult title 
+/* Deafult title */
 
 .title-icon{
 	font-size: 32px;
@@ -471,7 +471,7 @@ blockquote {
 }
 
 
-/* Icon pentagon 
+/* Icon pentagon */
 
 .icon-pentagon{
 	display: inline-block;
@@ -600,7 +600,7 @@ blockquote {
 	box-shadow: none;
 }
 
-/*-- Flex slider --*
+/*-- Flex slider --*/
 
 .portfolio-slider .flexslider,
 .ts-flex-slider .flexslider{
@@ -632,7 +632,7 @@ blockquote {
 	height: auto;
 }
 
-/*-- Pagination --*
+/*-- Pagination --*/
 
 .pagination li a{
 	border-radius: 0 !important;
@@ -648,7 +648,7 @@ blockquote {
 /* Header area
 ================================================== */
 
-/*-- Header style 1 --*
+/*-- Header style 1 --*/
 
 .header-solid{
 	background: #fff;
@@ -737,7 +737,7 @@ ul.navbar-nav > li > a i{
 	border:0;
 }
 
-/* Dropdown *
+/* Dropdown */
 
 .dropdown-menu{
 	border: 0;
@@ -806,7 +806,7 @@ ul.navbar-nav > li > a i{
 
 
 /* Header Style - 2
-================================================== *
+================================================== */
 
 .header2{
 	padding: 8px 0;
@@ -817,7 +817,7 @@ ul.navbar-nav > li > a i{
 	padding-top: 3px;
 }
 
-/*-- Header bgnone fixed --*
+/*-- Header bgnone fixed --*/
 
 .header-bgnone{
 	padding: 5px 0;
@@ -832,7 +832,7 @@ ul.navbar-nav > li > a i{
 
 
 /* Header Style - 3
-================================================== *
+================================================== */
 
 .header3{
 	background: #fff;
@@ -860,7 +860,7 @@ ul.navbar-nav > li > a i{
 
 
 /* Header Style - 4
-================================================== *
+================================================== */
 
 .header4{
 	background: #fff;
@@ -882,7 +882,7 @@ ul.navbar-nav > li > a i{
 /* Slideshow
 ================================================== */
 
-/*-- Main slide --*
+/*-- Main slide --*/
 
 .overlay {
 	position: absolute;
@@ -1059,7 +1059,7 @@ ul.navbar-nav > li > a i{
 	position: relative;
 }
 
-/*-- Animation *
+/*-- Animation */
 .carousel .item.active .animated1 {
 	
 }

@@ -104,7 +104,7 @@ h2.entry-title a:hover{
 
 /*-- Header --*/
 .header{
-	border-top: 5px solid #49a2e7;
+	border-top: 5px solid #54c286;
 }
 
 .header-solid ul.navbar-nav > li:hover > a, .header-solid ul.navbar-nav > li.active > a {
@@ -121,7 +121,7 @@ h2.entry-title a:hover{
 
 ul.navbar-nav > li:hover > a, 
 ul.navbar-nav > li.active > a{
-	color: #49a2e7;
+	color: #54c286;
 }
 
 .navbar-toggle{
@@ -141,7 +141,7 @@ ul.navbar-nav > li.active > a{
 /* Header area - 2
 ================================================== */
 
-/*-- Header bgnone fixed --*/
+ Header bgnone fixed 
 
 .header-bgnone{
 	background: #49a2e7;
