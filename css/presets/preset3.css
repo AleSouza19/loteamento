@@ -167,7 +167,7 @@ ul.navbar-nav > li.active > a{
 ================================================== */
 
 .image-block-content .feature-icon{
-	background: 54c286;
+	background: #54c286;
 }
 
 
@@ -189,8 +189,8 @@ ul.navbar-nav > li.active > a{
 }
 
 
-/* Feature box*/
-================================================== 
+/* Feature box
+================================================== */
 .feature-icon{
 	color: #ee3b24;
 }
